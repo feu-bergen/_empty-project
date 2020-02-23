@@ -1,8 +1,12 @@
-# Basic click event
+# Task
 
-When the button on the page is clicked, "Clicked" will be output in the console.
 
-This is the [link to example](https://events-1-1-click-event.now.sh)
+
+**Note:** Styles are provided for you in master.css. Look in the file to find the approriate class names to use on your HTML elements.
+
+### Example
+
+[The example is here](https://link).
 
 ## Task
 
@@ -12,7 +16,4 @@ Try to recreate the website above.  Firstly, try to create it without any help. 
 
 ## Steps
 
-1. Add a button into the HTML
-1. Select the button in JavaScript
-1. Add the event listner on to the button
-1. Create a callback function that is passed into the event listener.  The function should just output "click".
+1. 
